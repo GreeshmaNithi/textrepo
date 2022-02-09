@@ -1,2 +1,2 @@
-function register(name,age,ph)
+function register(name,age,ph,address)
 {}
